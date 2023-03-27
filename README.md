@@ -1,6 +1,6 @@
 # Frontend Mentor - News homepage solution
 
-This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -13,7 +13,6 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-
 
 ## Overview
 
@@ -30,11 +29,10 @@ Users should be able to:
 ![](./assets/screenshots/mobile.png)
 ![](./assets/screenshots/mobile-menu.png)
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-rF7wjwvsqo)
+- Live Site URL: [live site URL](https://newspage.pages.dev/)
 
 ## My process
 
@@ -45,16 +43,14 @@ Users should be able to:
 - CSS Flexbox
 - CSS Grid
 
-
 ### What I learned
 
 This project taught me how to properly implement the hamburger on mobile devices. I was having
-having issues implementing the shadow that come with the mobile menu, but with some help from a 
+having issues implementing the shadow that come with the mobile menu, but with some help from a
 friend, I finally got it done.
 
-This project also helped me improve mt knowledge of CSS grid, and re-ordering elements in 
+This project also helped me improve mt knowledge of CSS grid, and re-ordering elements in
 grip container.
-
 
 ### Continued development
 
@@ -62,12 +58,8 @@ grip container.
 - Build more projects using react
 - Build my portfolio website
 
-
 ## Author
 
 - Frontend Mentor - [@Drew-Adeleye](https://www.frontendmentor.io/profile/Drew-Adeleye)
-- Twitter - [@_Andrewiiii](https://www.twitter.com/yourusername)
+- Twitter - [@\_Andrewiiii](https://www.twitter.com/yourusername)
 - GitHub - [@Drew-Adeleye](https://github.com/Drew-Adeleye)
-
-
-
